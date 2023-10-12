@@ -52,7 +52,7 @@ public class Starter {
 		
 		
 		
-		
+		System.out.println("Nuova stampa aggiunta");
 	
 		
 		System.out.println("Fine Programma");
