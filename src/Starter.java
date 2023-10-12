@@ -8,7 +8,7 @@ public class Starter {
 		
 		Esame e1 = new Esame("N86001234", "Algebra", 26, false);
 		Esame programmazione = new Esame("N86001234", "Programmazione", 28, false);
-		Esame programmazione4 = new Esame("N86001234", "Programmazione", 28, false);
+		Esame asd = new Esame("N86001234", "ASD", 28, false);
 
 
 		
